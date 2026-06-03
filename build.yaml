@@ -1,0 +1,4 @@
+---
+include:
+  - board: seeeduino_xiao_ble
+    shield: [YOUR KEYBOARD SHIELD]_dongle prospector_adapter
